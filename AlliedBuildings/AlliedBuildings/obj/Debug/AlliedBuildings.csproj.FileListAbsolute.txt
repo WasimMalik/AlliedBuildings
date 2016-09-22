@@ -162,3 +162,4 @@ C:\Users\wabbas\Desktop\AlliedBuildings\AlliedBuildings\AlliedBuildings\bin\Micr
 C:\Users\wabbas\Desktop\AlliedBuildings\AlliedBuildings\AlliedBuildings\obj\Debug\AlliedBuildings.csprojResolveAssemblyReference.cache
 C:\Users\wabbas\Desktop\AlliedBuildings\AlliedBuildings\AlliedBuildings\obj\Debug\AlliedBuildings.dll
 C:\Users\wabbas\Desktop\AlliedBuildings\AlliedBuildings\AlliedBuildings\obj\Debug\AlliedBuildings.pdb
+D:\Transdata\AlliedBuilding\AlliedBuildings\AlliedBuildings\obj\Debug\AlliedBuildings.csprojResolveAssemblyReference.cache
