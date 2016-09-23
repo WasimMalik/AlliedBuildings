@@ -5,7 +5,7 @@ GO
 CREATE TABLE [dbo].[AspNetUsers](
 	[Id] [nvarchar](128) COLLATE SQL_Latin1_General_CP1_CI_AS NOT NULL,
 	[UserName] [nvarchar](max) COLLATE SQL_Latin1_General_CP1_CI_AS NULL,
-	[UserLastName] [nvarchar](max) COLLATE SQL_Latin1_General_CP1_CI_AS NULL,
+	[UserLastName1] [nvarchar](max) COLLATE SQL_Latin1_General_CP1_CI_AS NULL,
 	[PasswordHash] [nvarchar](max) COLLATE SQL_Latin1_General_CP1_CI_AS NULL,
 	[SecurityStamp] [nvarchar](max) COLLATE SQL_Latin1_General_CP1_CI_AS NULL,
 	[Discriminator] [nvarchar](128) COLLATE SQL_Latin1_General_CP1_CI_AS NOT NULL,
