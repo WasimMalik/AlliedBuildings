@@ -210,6 +210,12 @@
   <ItemGroup>
     <Content Include="Content\bootstrap.css" />
     <Content Include="Content\bootstrap.min.css" />
+    <Content Include="dbo.AspNetRoles.sql" />
+    <Content Include="dbo.AspNetUserClaims.sql" />
+    <Content Include="dbo.AspNetUserLogins.sql" />
+    <Content Include="dbo.AspNetUserRoles.sql" />
+    <Content Include="dbo.AspNetUsers.sql" />
+    <Content Include="dbo.__MigrationHistory.sql" />
     <Content Include="favicon.ico" />
     <Content Include="fonts\glyphicons-halflings-regular.svg" />
     <Content Include="Global.asax" />
